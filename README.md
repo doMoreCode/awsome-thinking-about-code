@@ -1,6 +1,6 @@
-# awsome-thinking-about-cpp
+# awsome-thinking-about-code
 
-notes about cpp technology and life
+notes about technology and life
 
 0x00 start
 
